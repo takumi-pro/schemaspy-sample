@@ -8,7 +8,12 @@ git clone https://github.com/takumi-pro/schemaspy-sample
 cd schemaspy-sample
 ```
 
-2. execute make command
+2. create docker network
+```bash
+docker network create schemaspy-sample
+```
+
+3. execute make command
 ```bash
 make up
 ```
