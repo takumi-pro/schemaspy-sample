@@ -4,8 +4,8 @@
 
 1. git clone & change directory
 ```bash
-git clone {}
-cd {}
+git clone https://github.com/takumi-pro/schemaspy-sample
+cd schemaspy-sample
 ```
 
 2. execute make command
